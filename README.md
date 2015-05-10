@@ -1,19 +1,19 @@
 # 动态语言的一个简单实现
-==
+
 roadmap如下
 第一步：实现以下语言特性
 --
 跟javascript更像一些，结合lua的一些优点
-*1、表达式求值
-*2、函数调用
-*3、if else 
-*4、for循环
-*5、switch
-*6、实现三个调用：
+* 1、表达式求值
+* 2、函数调用
+* 3、if else 
+* 4、for循环
+* 5、switch
+* 6、实现三个调用：
 	标准输出printf
 	文件读写file
 	socket通信 socket
-*7、从ast开始执行
+* 7、从ast开始执行
 
 第二步：
 --
