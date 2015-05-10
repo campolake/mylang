@@ -17,5 +17,6 @@ HEADERS += \
     Scanner.h \
     Interpreter.h \
     Parser.h \
-    Tokeninfo.h
+    Tokeninfo.h \
+    ExprAst.h
 
