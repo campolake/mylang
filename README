@@ -1,0 +1,8 @@
+动态语言学习
+实现以下特性：
+1、表达式求值
+2、函数调用
+3、if else 
+4、for循环
+5、switch
+6、三个库调用  printf file socket
